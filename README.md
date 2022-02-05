@@ -1,5 +1,6 @@
 # Water_Level_Controller
-This is our project for the microcontrollers class
+This is our project for the microcontrollers class.
+
 This system mainly works on a principle that “water conducts electricity”. The
 four wires which are dipped into the tank will indicate the different water levels.
 Based on the outputs of these wires, microcontroller displays water level on
